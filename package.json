@@ -1,0 +1,21 @@
+{
+  "name": "ascreations-portfolio",
+  "version": "1.0.0",
+  "description": "AS Creations - Frontend Developer Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'No build step required for static HTML'",
+    "lint": "echo 'No linting configured'"
+  },
+  "keywords": [
+    "portfolio",
+    "frontend",
+    "web-developer"
+  ],
+  "author": "Abdul",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  }
+}
